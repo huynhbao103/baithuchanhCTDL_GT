@@ -1,0 +1,14 @@
+D:\ctdl-gt th\bai1\bai1\bin\Debug\bai1.exe.config
+D:\ctdl-gt th\bai1\bai1\bin\Debug\bai1.exe
+D:\ctdl-gt th\bai1\bai1\bin\Debug\bai1.pdb
+D:\ctdl-gt th\bai1\bai1\obj\Debug\bai1.csproj.AssemblyReference.cache
+D:\ctdl-gt th\bai1\bai1\obj\Debug\bai1.csproj.CoreCompileInputs.cache
+D:\ctdl-gt th\bai1\bai1\obj\Debug\bai1.exe
+D:\ctdl-gt th\bai1\bai1\obj\Debug\bai1.pdb
+D:\bài thực hành ctdl-gt\bai1\bai1\bin\Debug\bai1.exe.config
+D:\bài thực hành ctdl-gt\bai1\bai1\bin\Debug\bai1.exe
+D:\bài thực hành ctdl-gt\bai1\bai1\bin\Debug\bai1.pdb
+D:\bài thực hành ctdl-gt\bai1\bai1\obj\Debug\bai1.csproj.AssemblyReference.cache
+D:\bài thực hành ctdl-gt\bai1\bai1\obj\Debug\bai1.csproj.CoreCompileInputs.cache
+D:\bài thực hành ctdl-gt\bai1\bai1\obj\Debug\bai1.exe
+D:\bài thực hành ctdl-gt\bai1\bai1\obj\Debug\bai1.pdb
